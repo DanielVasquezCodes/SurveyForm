@@ -1,0 +1,45 @@
+h1{
+  color:White;
+  background-color:Navy;
+  padding:20;
+  text-align:center;
+
+}
+
+input[type="name"]{
+  
+  
+}
+
+input[type="number"]{
+  width:175px;
+ 
+}
+
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align:center;
+  
+}
+
+img{
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+p{
+  color:Navy;
+  text-align:center;
+}
+
+.dropdown{
+  margin:auto;
+}
+
+textarea{
+ height:200px;
+ width:1000px;
+}
